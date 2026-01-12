@@ -14,9 +14,4 @@ A full-stack web application built using the MERN stack (MongoDB, Express, React
 * **Database:** MongoDB, Mongoose
 * **Tools:** VS Code, Thunder Client/Postman
 
-## ⚙️ Installation & Run
 
-**1. Clone the repository**
-```bash
-git clone [https://github.com/YOUR_USERNAME/mern-product-store.git](https://github.com/YOUR_USERNAME/mern-product-store.git)
-cd mern-product-store
