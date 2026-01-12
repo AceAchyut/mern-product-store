@@ -1,0 +1,17 @@
+/* frontend/src/Card.css */
+.card {
+  border: 1px solid #ddd;
+  border-radius: 8px;
+  padding: 16px;
+  margin: 10px;
+  width: 200px;
+  box-shadow: 0 4px 8px rgba(0,0,0,0.1);
+  background-color: white;
+  display: inline-block;
+  vertical-align: top;
+}
+
+.price {
+  font-weight: bold;
+  color: #27ae60;
+}
